@@ -10,6 +10,8 @@ function setup()
 {
   createCanvas(600, 400)
   background(0, 0, 0)
+
+  document.body.style.backgroundColor = "#0d1117"
   
   player1 = new Player(15, height / 2)
   player2 = new Player(width - 15, height / 2)
