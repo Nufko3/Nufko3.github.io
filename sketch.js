@@ -3,7 +3,7 @@ var player2
 
 var ball
 
-var vx = 10
+var vx = 5
 var vy = -1
 
 function setup()
